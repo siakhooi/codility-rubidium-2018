@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>challenge2021</artifactId>
+	<artifactId>rubidium2018</artifactId>
 	<version>1.0.0</version>
 
-	<name>challenge2021</name>
-	<url>https://github.com/siakhooi/codility-challenge-2021/</url>
+	<name>rubidium2018</name>
+	<url>https://github.com/siakhooi/codility-rubidium-2018/</url>
 
 	<build>
 		<plugins>
